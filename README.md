@@ -1,1 +1,0 @@
-# azure-realtime-inference-service
